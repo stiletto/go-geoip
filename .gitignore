@@ -1,0 +1,7 @@
+*.so
+*cgo*
+_obj
+suck-cocks
+test-geoip
+test-geoip.c
+*.[685]
